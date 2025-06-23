@@ -1,5 +1,7 @@
 # YT Batch Manager
 
+# Deprecated. Please use electron-based [YT Batch Manager](https://github.com/hletrd/yt-batch-manager) instead.
+
 A Python+Flask-based web application for batch editing YouTube video titles and descriptions.
 
 * Disclaimer: YouTube is a registered trademark of Google LLC, and this project is not affiliated with YouTube in any way.
