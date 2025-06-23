@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=W0311,W0621
+
+[FORMAT]
+indent-string='  '
+indent-after-paren=2

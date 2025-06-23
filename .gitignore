@@ -1,0 +1,12 @@
+credentials.json
+token.json
+
+__pycache__/
+*.py[cod]
+
+venv/
+
+**/.DS_Store
+**/Thumbs.db
+
+cache/thumbnails/*
